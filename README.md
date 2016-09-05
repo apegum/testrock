@@ -1,9 +1,10 @@
 # testrock
 desc rockall @ new repo
 
+now another line for 0001
+
 testing markdown
 #hash
 * star
-* star3 is better
 
 and a coda
