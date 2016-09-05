@@ -7,4 +7,4 @@ testing markdown
 #hash
 * star
 
-and a coda
+and a coda AND a change after the branch
