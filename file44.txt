@@ -1,3 +1,4 @@
 foo
+doo
 bar
 baz
